@@ -12,6 +12,10 @@ namespace Gso15._02
         {
             return parameterA / parameterB;
         }
+        public static int Sub(int a)
+        {
+            return a;
+        }
         //public static int Calculate(int parameterA, int parameterB)
         //{
         //    return parameterA / parameterB;
