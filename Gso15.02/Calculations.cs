@@ -17,7 +17,7 @@ namespace Gso15._02
         {
             return a;
         }
-	  public static int Sub(int a)	
+        public static int Sub(int a)
         {
             return a;
         }

@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Gso15._02
+{
+    public class Calculations
+    {
+        public static int Calculate(int parameterA,int parameterB)
+        {
+            return parameterA / parameterB;
+        }
+<<<<<<< HEAD
+
+        public static int Add(int a)
+        {
+            return a;
+        }
+	  public static int Sub(int a)	
+        {
+            return a;
+        }
+		
+=======
+        public static int Sub(int a)
+        {
+            return a;
+        }
+>>>>>>> f96137397544634e719128bf61d421b4d8e61848
+        //public static int Calculate(int parameterA, int parameterB)
+        //{
+        //    return parameterA / parameterB;
+        //}
+    }
+}
