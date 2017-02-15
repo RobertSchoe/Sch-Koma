@@ -10,11 +10,11 @@ namespace Gso15._02
     {
         public static int Calculate(int parameterA,int parameterB)
         {
-            return parameterA * parameterB;
-        }
-        public static int Calculate(int parameterA, int parameterB)
-        {
             return parameterA / parameterB;
         }
+        //public static int Calculate(int parameterA, int parameterB)
+        //{
+        //    return parameterA / parameterB;
+        //}
     }
 }
