@@ -8,5 +8,9 @@ namespace Gso15._02
 {
     public class Calculations
     {
+        public static int Calculate(int parameterA,int parameterB)
+        {
+            return parameterA + parameterB;
+        }
     }
 }
